@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-11-22 00:54:50 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-22 00:54:51 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-22 00:54:52 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-22 03:01:20 --> 404 Page Not Found: Administrator/index.php
+ERROR - 2018-11-22 03:10:01 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-22 03:10:02 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-22 03:10:02 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-22 03:26:56 --> 404 Page Not Found: Administrator/index.php
+ERROR - 2018-11-22 03:37:31 --> 404 Page Not Found: Administrator/index.php
+ERROR - 2018-11-22 04:06:39 --> 404 Page Not Found: Administrator/index.php
+ERROR - 2018-11-22 05:30:32 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-11-22 05:30:32 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2018-11-22 05:30:32 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-11-22 05:30:33 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-11-22 05:30:34 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-11-22 05:30:35 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2018-11-22 05:30:35 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-11-22 05:30:36 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2018-11-22 05:30:37 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2018-11-22 05:30:38 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-11-22 05:30:39 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-11-22 05:30:39 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-11-22 05:30:40 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2018-11-22 05:30:40 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2018-11-22 05:30:41 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-11-22 05:30:42 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-11-22 05:30:43 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-11-22 05:30:43 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2018-11-22 05:30:44 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2018-11-22 09:31:18 --> 404 Page Not Found: Git/info
+ERROR - 2018-11-22 12:13:00 --> 404 Page Not Found: Courses/your-complete-guide-to-photography
+ERROR - 2018-11-22 13:43:09 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-22 13:43:10 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-22 13:43:12 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-22 14:04:31 --> 404 Page Not Found: Profile/biozel

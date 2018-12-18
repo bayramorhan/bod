@@ -1,0 +1,94 @@
+.list-of-categories span {
+  color:#343a40;
+}
+
+.main_title h2, .hero_home .content h3 {
+  text-transform: capitalize;
+}
+
+header {
+  background-color: #17a2b8;
+}
+
+header.header_sticky.sticky {
+  border-bottom: none;
+}
+
+.main-menu > ul > li > a {
+  color: #fff;
+}
+
+.main-menu > ul > li:hover > a {
+  color: #ededed;
+}
+
+.hero_home.version_1 {
+  background: #343a40 url(/assets/img/bg_pattern.png);
+}
+
+#hero_register {
+  background: #343a40 url(/assets/img/bg_pattern.png);
+}
+
+#app_section {
+  background: #343a40 url(/assets/img/hero_bg_1.svg) repeat fixed;
+}
+
+.box_feat_2 h3 {
+    color: #1ab7d0;
+}
+
+.bootstrap-tagsinput {
+  width: 100%;
+  padding:6px;
+  box-shadow: none;
+  border: 1px solid #e1e8ed;
+}
+
+.bootstrap-tagsinput input {
+  margin:4px;
+}
+
+.bootstrap-tagsinput .tag {
+    border-radius: 4px;
+    margin-right: 2px;
+    color: white;
+    background: #1ab7d0;
+    padding: 2px;
+}
+
+.cst-verification-box {
+  text-align: center;
+  font-weight: 600;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+.cst-verification-box::placeholder {
+  color:#9996;
+  text-transform: capitalize;
+}
+
+.tags {
+  cursor:pointer;
+  margin:4px;
+}
+
+.package-list .package-description {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.package-list h3 {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.total_distance :before {
+  content: '|';
+  font-weight: 400;
+  margin-left: 8px;
+  color: #ccc;
+}

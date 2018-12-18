@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-11-08 02:32:27 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2018-11-08 02:32:27 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2018-11-08 02:32:27 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2018-11-08 08:57:58 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 08:57:59 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 08:57:59 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 20:51:34 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 20:51:34 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 20:51:34 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 20:51:44 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 20:51:44 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 20:51:44 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 20:58:57 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 20:58:57 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 20:58:57 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 20:59:43 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 20:59:43 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 20:59:43 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 21:02:17 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 21:02:17 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 21:02:17 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 21:03:07 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 21:03:07 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 21:03:07 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 21:04:00 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 21:04:10 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 21:04:10 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 21:05:40 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 21:05:40 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-08 21:05:40 --> 404 Page Not Found: Img/badges

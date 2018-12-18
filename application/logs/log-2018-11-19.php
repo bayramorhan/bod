@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-11-19 09:39:04 --> 404 Page Not Found: Wp-json/oembed
+ERROR - 2018-11-19 17:54:17 --> 404 Page Not Found: Courses/html5css3-essentials-in-4-hours
+ERROR - 2018-11-19 18:15:41 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-19 18:15:45 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-19 18:15:52 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-19 19:37:48 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-19 19:37:59 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-19 19:38:09 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-19 19:44:46 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-19 19:44:47 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-19 19:44:47 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-19 19:45:16 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 19:45:16 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 19:45:19 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 19:45:19 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 19:45:22 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 19:45:32 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 19:45:32 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 19:45:38 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-19 19:45:38 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-19 19:45:38 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-19 19:46:00 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 19:46:00 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 20:01:14 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-19 20:01:14 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-19 20:01:14 --> 404 Page Not Found: Img/badges
+ERROR - 2018-11-19 20:01:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 20:01:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 20:01:20 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 20:01:20 --> 404 Page Not Found: Assets/js
